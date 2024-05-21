@@ -3,7 +3,7 @@ import { Link, NavLink } from "react-router-dom";
 
 const NavBar = () => {
     return (
-        <Box p='4'>
+        <Box pos='absolute' zIndex='10' textColor='white' p='4' w='full'>
             <Flex minWidth='max-content' alignItems='center' gap='2'>
                 <Box p='2'>
                     <Heading size='lg' as={Link} to='/' >SpaceSeeker</Heading>
@@ -30,7 +30,7 @@ const NavBar = () => {
                 </Box>
                 <Spacer />
                 <ButtonGroup gap='2'>
-                    <Button textTransform='uppercase' colorScheme="gray" variant='outline' borderRadius='none'>Sign Up</Button>
+                    <Button textTransform='uppercase' color='white' variant='outline' _hover={{bg: 'transparent'}} borderRadius='none'>Sign Up</Button>
                     <Button textTransform='uppercase' colorScheme='primary' borderRadius='none'>Log In</Button>
                 </ButtonGroup>
             </Flex>
