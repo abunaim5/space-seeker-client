@@ -7,7 +7,7 @@ const SectionCard = ({icon, heading, description}) => {
                 {icon}
             </Box>
             <CardHeader>
-                <Heading size='md' textColor='#003366'>{heading}</Heading>
+                <Heading size='md' textTransform={"uppercase"} textColor='#003366'>{heading}</Heading>
             </CardHeader>
             <CardBody pt={0}>
                 <Text textColor='#333333'>{description}</Text>
