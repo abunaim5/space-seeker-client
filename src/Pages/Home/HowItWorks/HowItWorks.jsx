@@ -24,7 +24,7 @@ const HowItWorks = () => {
     ]
 
     return (
-        <Box w='75%' mx='auto' my='20'>
+        <Box maxW='7xl' mx='auto' my='20'>
             <SectionHeading heading="How It Works" />
             <SimpleGrid spacing={4} templateColumns='repeat(auto-fill, minmax(400px, 1fr))'>
                 {

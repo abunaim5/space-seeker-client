@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "photo_url": "https://i.postimg.cc/J0tpPjhB/carlos-vaz-KP4bxnx-Ail-U-unsplash.jpg",
+      "name": "Sarah L.",
+      "feedback": "SpaceSeeker has completely transformed my daily commute. I no longer stress about finding parking downtown. The real-time updates are a lifesaver!",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "photo_url": "https://i.postimg.cc/52kXy5K9/petr-sevcovic-e12w-QLAj-Qi0-unsplash.jpg",
+      "name": "David M.",
+      "feedback": "Reserving a parking spot in advance is so convenient. I love knowing that I have a guaranteed spot waiting for me when I get to my destination. Highly recommend!",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "photo_url": "https://i.postimg.cc/x8b7WsBS/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+      "name": "Emily R.",
+      "feedback": "Dynamic pricing has saved me so much money. I often park during off-peak hours and the reduced rates are fantastic. Great app, very user-friendly.",
+      "rating": 4
+    },
+    {
+      "id": "4",
+      "photo_url": "https://i.postimg.cc/HWBdTYhd/robert-godwin-cdksy-Tq-EXzo-unsplash.jpg",
+      "name": "Michael T.",
+      "feedback": "The app is incredibly easy to use. Searching for and reserving parking spots takes just a few minutes. I appreciate the efficiency and reliability.",
+      "rating": 5
+    },
+    {
+      "id": "5",
+      "photo_url": "https://i.postimg.cc/PfwfQs3j/jake-nackos-IF9-TK5-Uy-KI-unsplash.jpg",
+      "name": "Jessica K.",
+      "feedback": "SpaceSeeker has made parking so much easier for our family trips. We can book spots in advance and avoid the hassle of searching for parking with kids in the car.",
+      "rating": 5
+    },
+    {
+      "id": "6",
+      "photo_url": "https://i.postimg.cc/YCS4tD3y/nicolas-horn-MTZTGv-Ds-HFY-unsplash.jpg",
+      "name": "Robert H.",
+      "feedback": "The customer service is top-notch. I had an issue with a reservation and it was resolved quickly and professionally. Very impressed with the support team.",
+      "rating": 4
+    }
+  ]
