@@ -30,8 +30,8 @@ const NavBar = () => {
                 </Box>
                 <Spacer />
                 <ButtonGroup gap='2'>
-                    <Button textTransform='uppercase' color='white' variant='outline' _hover={{bg: 'transparent'}} borderRadius='none'>Sign Up</Button>
-                    <Button textTransform='uppercase' colorScheme='primary' borderRadius='none'>Log In</Button>
+                    <Button textTransform='uppercase' color='white' variant='outline' _hover={{bg: 'transparent'}} borderRadius='none'>Log In</Button>
+                    <Button textTransform='uppercase' colorScheme='primary' borderRadius='none'>Sign Up</Button>
                 </ButtonGroup>
             </Flex>
         </Box>
