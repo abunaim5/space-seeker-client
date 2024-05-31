@@ -13,7 +13,7 @@ const starRating = {
     itemShapes: Star,
     activeFillColor: '#f59e0b',
     inactiveFillColor: '#ffedd5'
-  };
+};
 
 const Testimonial = () => {
     const [feedbacks, setFeedbacks] = useState([]);
@@ -32,7 +32,6 @@ const Testimonial = () => {
                 <Swiper
                     spaceBetween={30}
                     centeredSlides={true}
-                    loop={true}
                     autoplay={{
                         delay: 5000,
                         disableOnInteraction: false,

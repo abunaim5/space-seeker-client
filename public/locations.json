@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "New York City",
+      "image": "https://i.postimg.cc/cJDShPh2/new-york.jpg",
+      "description": "Secure parking options in the heart of Manhattan, close to major attractions and business districts.",
+      "findParkingUrl": "https://example.com/parking/new-york-city",
+      "features": ["24/7 Access", "EV Charging", "Covered Parking"]
+    },
+    {
+      "id": 2,
+      "name": "San Francisco",
+      "image": "https://i.postimg.cc/5yhKpSDZ/maarten-van-den-heuvel-g-ZXx8l-KAb7-Y-unsplash.jpg",
+      "description": "Convenient parking near Fisherman's Wharf and downtown San Francisco.",
+      "findParkingUrl": "https://example.com/parking/san-francisco",
+      "features": ["24/7 Access", "Covered Parking"]
+    },
+    {
+      "id": 3,
+      "name": "Chicago",
+      "image": "https://i.postimg.cc/FFY9WF2Z/lance-anderson-uevmkf-CH98-Q-unsplash.jpg",
+      "description": "Find parking in downtown Chicago, with easy access to shopping, dining, and entertainment.",
+      "findParkingUrl": "https://example.com/parking/chicago",
+      "features": ["24/7 Access", "Security Cameras", "Covered Parking"]
+    },
+    {
+      "id": 4,
+      "name": "Los Angeles International Airport (LAX)",
+      "image": "https://i.postimg.cc/kgv962bn/shot-by-joe-sqh-Lj-Nz-Ix-F0-unsplash.jpg",
+      "description": "Affordable long-term and short-term parking options at LAX, with shuttle service to terminals.",
+      "findParkingUrl": "https://example.com/parking/lax",
+      "features": ["Shuttle Service", "Long-Term Parking", "Covered Parking"]
+    },
+    {
+      "id": 5,
+      "name": "Walt Disney World, Orlando",
+      "image": "https://i.postimg.cc/J7SR9V8W/cesira-alvarado-1ph-Yq98rf-Bk-unsplash.jpg",
+      "description": "Reserve parking near Walt Disney World for a hassle-free experience.",
+      "findParkingUrl": "https://example.com/parking/disneyworld",
+      "features": ["24/7 Access", "Security Cameras"]
+    },
+    {
+      "id": 6,
+      "name": "Madison Square Garden, NYC",
+      "image": "https://i.postimg.cc/VLMzwGs0/madison-1809576-1920.jpg",
+      "description": "Secure parking spots available for concerts and sporting events at Madison Square Garden.",
+      "findParkingUrl": "https://example.com/parking/msg",
+      "features": ["24/7 Access", "Security Cameras", "Covered Parking"]
+    }
+  ]

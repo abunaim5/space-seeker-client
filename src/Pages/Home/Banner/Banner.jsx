@@ -12,7 +12,7 @@ const Banner = () => {
                         <Text fontSize='3xl' my='1.5rem'>Effortless parking solutions at your fingertips</Text>
                         <Box w='65%' margin='auto' mt='2.5rem'>
                             <InputGroup>
-                                <Input placeholder='Search location' focusBorderColor='#00CC66' size='lg' borderRadius='none' />
+                                <Input placeholder='Search location' name='search' focusBorderColor='#00CC66' size='lg' borderRadius='none' />
                                 <InputRightElement h='full'>
                                     <Search2Icon />
                                 </InputRightElement>
